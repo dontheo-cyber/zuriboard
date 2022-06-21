@@ -1,0 +1,28 @@
+body {
+    background-color: black
+}
+
+
+
+.container {
+    display: flex;
+    position: relative;
+    width: 100%;
+    background-color:red;
+    min-height: 100vh;
+    overflow: hidden;
+
+}
+.try{
+    margin-bottom: 30px;
+    width: 100%;
+    height: 40px;
+    background-color: blueviolet;
+}
+.try h6{
+    color: white;
+    text-align: center;
+}
+#head-bar{
+
+}
